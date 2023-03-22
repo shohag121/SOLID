@@ -1,0 +1,19 @@
+{
+    "name": "shohag/playground",
+    "description": "Playground",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shohag\\Playground\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shazahanul Islam Shohag",
+            "email": "shohag121@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
